@@ -6,12 +6,12 @@
 			
 			overlayBgColor: 		'#000',		
 			overlayOpacity:			0.8,		
-			fixedNavigation:		false,		/
-			imageLoading:			'images/lightbox-ico-loading.gif',		// (string) Path and the name of the loading icon
-			imageBtnPrev:			'images/lightbox-btn-prev.gif',			// (string) Path and the name of the prev button image
-			imageBtnNext:			'images/lightbox-btn-next.gif',			// (string) Path and the name of the next button image
-			imageBtnClose:			'images/lightbox-btn-close.gif',		// (string) Path and the name of the close btn
-			imageBlank:				'images/lightbox-blank.gif',			// (string) Path and the name of a blank image (one pixel)
+			fixedNavigation:		false,		
+			imageLoading:			'images/lightbox-ico-loading.gif',
+			imageBtnPrev:			'images/lightbox-btn-prev.gif',			
+			imageBtnNext:			'images/lightbox-btn-next.gif',			
+			imageBtnClose:			'images/lightbox-btn-close.gif',		
+			imageBlank:				'images/lightbox-blank.gif',			
 			
 			containerBorderSize:	10,			
 			containerResizeSpeed:	400,		
